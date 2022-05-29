@@ -69,6 +69,12 @@
     "/52hrtt/:area?/:type?": [
         "nczitzk"
     ],
+    "/7mmtv/:language?/:category?/:type?": [
+        "nczitzk"
+    ],
+    "/7mmtv/:language?/:category?/:id?": [
+        "nczitzk"
+    ],
     "/8kcos/": [
         "KotoriK"
     ],
@@ -274,6 +280,15 @@
     ],
     "/c114/roll": [
         "nczitzk"
+    ],
+    "/caareviews/book": [
+        "Fatpandac"
+    ],
+    "/caareviews/essay": [
+        "Fatpandac"
+    ],
+    "/caareviews/exhibition": [
+        "Fatpandac"
     ],
     "/cahkms/:category?": [
         "nczitzk"
@@ -1836,6 +1851,9 @@
     "/qidiantu/shouding": [
         "nczitzk"
     ],
+    "/qipamaijia/:cate?": [
+        "Fatpandac"
+    ],
     "/qm120/news/:category?": [
         "nczitzk"
     ],
@@ -2482,6 +2500,9 @@
     "/xiaoyuzhou/podcast/:id": [
         "hondajojo",
         "jtsang4"
+    ],
+    "/xiaozhuanlan/column/:id": [
+        "TonyRL"
     ],
     "/xueqiu/favorite/:id": [
         "imlonghao"
@@ -3796,7 +3817,6 @@
     "/gov/chinatax/latest": [],
     "/lizhi/user/:id": [],
     "/futunn/highlights": [],
-    "/waijiedanao/article/:caty": [],
     "/netease/news/special/:type?": [],
     "/netease/dy/:id": [],
     "/netease/dy2/:id": [],
